@@ -9,3 +9,4 @@ Assumed Virtual car specs match a Tata Tiago ev
 	Max Torque = 114 Nm
 	Tyre = 175/65 R14 86T
 	HV battery = 75 Ah 24KWh
+	Rated max speed 120kmph
