@@ -1,1 +1,1 @@
-- [ ] 17-04-2026 Presentation on Vxworks architecture and features
+- [ ] 17-04-2026 Presentation on VxWorks architecture and features
